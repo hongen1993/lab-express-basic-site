@@ -1,0 +1,21 @@
+.hero {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(/images/paulo-miyao-adcc-2019-leglock.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+.hero h1 {
+    padding-top: 2em;
+    margin-bottom: 8em;
+}
+
+.hero a {
+    border: 1px solid white;
+    padding: 1em 3em;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+}
